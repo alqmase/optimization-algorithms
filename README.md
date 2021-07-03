@@ -15,7 +15,7 @@ The goal is to provide a python library:
 * **_in the context of_** VLSI circuit design, parallel computing, cloud computing, and artificial intelligent.
 
 ## Q2: what are the motivation of building this library?
-During my research in partitioning problem, I found that there is a lack of library where the researchers can easily compare their algorithms with others. I found that each implementation has its own input style and output style which means more afford is spent for understanding the codes and adapting the input. We suggest this library where the optimization algorithms can be packaged with consistency in mind.
+During my research in partitioning problem, I found that there is a lack of library where the researchers can easily compare their algorithms with others. I found that each implementation has its own input style and output style which means more effort is spent for understanding the codes and adapting the input. We suggest this library where the optimization algorithms can be packaged with consistency in mind.
 
 
 ## Q3: who are the users?
